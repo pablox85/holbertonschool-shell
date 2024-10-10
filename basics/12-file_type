@@ -1,13 +1,4 @@
 #!/bin/bash
+file /tmp/iamafile
 
-# Definir la ruta del archivo
-FILE="/tmp/iamafile"
-
-# Verificar si el archivo existe
-if [ -e "$FILE" ]; then
-    # Imprimir el tipo de archivo
-    file "$FILE"
-else
-    echo "El archivo $FILE no existe."
-fi
 

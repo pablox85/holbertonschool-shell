@@ -1,2 +1,2 @@
 #!/bin/bash
-mv ls -lS
+mv ls -lS /tmp/u

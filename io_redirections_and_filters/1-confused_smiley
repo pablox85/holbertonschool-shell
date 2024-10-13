@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "(/U+00D4o)' Ã
-Ã
+echo "(\u00D4o)'\n"

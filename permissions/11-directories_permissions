@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+xwr go+rx . ..
+chmod -R a+X .

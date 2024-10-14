@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tail -n 13 >> iacta
+tail -n 13 iacta | tail -1 >> iacta

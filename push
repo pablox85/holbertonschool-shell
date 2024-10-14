@@ -3,5 +3,5 @@
 chmod +x *
 
 git add .
-git commit -m 'automated push'
+git commit -m 'automated by Pablo Perez'
 git push -f

@@ -1,2 +1,2 @@
 #!/bin/bash
-printev | ls -1
+printenv | ls -1

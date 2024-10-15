@@ -1,2 +1,2 @@
 #!/bin/bash/action
-$path |  mkdir -p  action
+$PATH |  mkdir -p action

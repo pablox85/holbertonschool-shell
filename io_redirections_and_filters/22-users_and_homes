@@ -1,2 +1,2 @@
 #!/bin/bash
-alskjdlasjdlksaj
+-f1,6 | sort -t

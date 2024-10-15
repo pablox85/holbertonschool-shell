@@ -1,2 +1,2 @@
 #!/bin/bash	
-rm -rf /tmp/test_alia
+rm -rf /tmp/test_alias

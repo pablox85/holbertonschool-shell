@@ -1,2 +1,2 @@
 #!/bin/bash
-linea sin codigo solo para generar el error
+grep root /etc/passwd

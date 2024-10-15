@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $variable | ls -1
+printenv

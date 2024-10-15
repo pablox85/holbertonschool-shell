@@ -1,2 +1,2 @@
 #!/bin/bash
-sarasasenado 
+alias ; ls -l | grep -v alias

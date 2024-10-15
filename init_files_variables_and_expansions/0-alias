@@ -1,2 +1,2 @@
 #!/bin/bash
-aliasssss
+ls -l | grep -v alias

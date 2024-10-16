@@ -1,2 +1,2 @@
 #!/bin/bash
-hola
+NUM=12.122 printf=NUM

@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM=12.122 | printf=NUM
+printf "%.2\n"$NUM

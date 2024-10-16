@@ -1,2 +1,2 @@
 #!/bin/bash
-BINARY=10 | echo $((BINARY**2))
+set BINARY=10 | echo $((BINARY**2))

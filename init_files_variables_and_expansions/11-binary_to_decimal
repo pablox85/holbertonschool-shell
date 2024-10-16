@@ -1,2 +1,2 @@
 #!/bin/bash
-set BINARY=10 | echo $((BINARY**2))
+export BINARY=10 | echo $((BINARY**2))

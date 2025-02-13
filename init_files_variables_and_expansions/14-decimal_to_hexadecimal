@@ -1,3 +1,2 @@
 #!/bin/bash
-DECIMAL=${DECIMAL}
-printf "%x" "$DECIMAL"
+DECIMAL=${DECIMAL} | printf "%x" "$DECIMAL"
